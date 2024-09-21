@@ -3,7 +3,7 @@ Business Case: Delhivery - Feature Engineering
 
 # Delhivery - Feature Engineering 📊
 
-![Delhivery Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1280px-Netflix_2015_logo.svg.png](https://en.wikipedia.org/wiki/Delhivery#/media/File:Delhivery_Logo_(2019).png))
+![Delhivery Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Delhivery_Logo_%282019%29.png/1920px-Delhivery_Logo_%282019%29.png])
 
 Welcome to the Delhivery Feature Engineering project! 🎉 In this repository, we delve into the world of Delhivery to Make sense out of the raw data and help the data science team to build forecasting models on it. Clean, sanitize and manipulate data to get useful features out of raw fields
 
@@ -19,11 +19,10 @@ The company wants to understand and process the data coming out of data engineer
 • Clean, sanitize and manipulate data to get useful features out of raw fields
 • Make sense out of the raw data and help the data science team to build forecasting models on it
 
-## Dataset 📋
+## Dataset/ Column Profiling:📋
 
-The dataset at the heart of this exploration includes a comprehensive listing of all the TV shows and movies available on Netflix. Here are some of the key features:
-- **Show_id**: Unique ID for every movie or TV show.
-- **Type**: Identifier - Is it a movie or a TV show?
+The dataset at the heart of this exploration. Here are some of the key features:
+
 - **data**: tells whether the data is testing or training data.
 - **trip_creation_time**: Timestamp of trip creation.
 - **route_schedule_uuid**: Unique Id for a particular route schedule.
