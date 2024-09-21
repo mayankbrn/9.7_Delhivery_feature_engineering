@@ -19,11 +19,10 @@ The company wants to understand and process the data coming out of data engineer
 • Clean, sanitize and manipulate data to get useful features out of raw fields
 • Make sense out of the raw data and help the data science team to build forecasting models on it
 
-## Dataset 📋
+## Dataset/ Column Profiling:📋
 
-The dataset at the heart of this exploration includes a comprehensive listing of all the TV shows and movies available on Netflix. Here are some of the key features:
-- **Show_id**: Unique ID for every movie or TV show.
-- **Type**: Identifier - Is it a movie or a TV show?
+The dataset at the heart of this exploration. Here are some of the key features:
+
 - **data**: tells whether the data is testing or training data.
 - **trip_creation_time**: Timestamp of trip creation.
 - **route_schedule_uuid**: Unique Id for a particular route schedule.
