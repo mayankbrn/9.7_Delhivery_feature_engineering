@@ -56,7 +56,7 @@ To get you started, here are some questions you might consider:
 
 - Basic data cleaning and exploration
 - Build some features to prepare the data for actual analysis. Extract features from the fields.
-- In-depth analysis and feature engineering2
+- In-depth analysis and feature engineering
 
 ## Concepts Used 
 - Feature Creation
