@@ -3,7 +3,7 @@ Business Case: Delhivery - Feature Engineering
 
 # Delhivery - Feature Engineering 📊
 
-![Delhivery Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1280px-Netflix_2015_logo.svg.png](https://en.wikipedia.org/wiki/Delhivery#/media/File:Delhivery_Logo_(2019).png))
+![Delhivery Logo]([https://en.wikipedia.org/wiki/Delhivery#/media/File:Delhivery_Logo_(2019).png])
 
 Welcome to the Delhivery Feature Engineering project! 🎉 In this repository, we delve into the world of Delhivery to Make sense out of the raw data and help the data science team to build forecasting models on it. Clean, sanitize and manipulate data to get useful features out of raw fields
 
